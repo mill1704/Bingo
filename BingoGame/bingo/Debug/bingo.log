@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\cm_mill\desktop\bingogame\bingo\main.cpp(48): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+c:\users\cm_mill\desktop\bingogame\bingo\main.cpp(48): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'double'
+c:\users\cm_mill\desktop\bingogame\bingo\main.cpp(96): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\cm_mill\desktop\bingogame\bingo\main.cpp(159): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\cm_mill\desktop\bingogame\bingo\main.cpp(180): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  bingo.vcxproj -> C:\Users\CM_Mill\Desktop\BingoGame\Debug\bingo.exe
